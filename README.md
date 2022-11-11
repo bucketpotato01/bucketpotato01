@@ -1,4 +1,4 @@
-Some comp prog accounts
+Some of my comp prog accounts
 
 [![Codeforces](https://badges.joonhyung.xyz/codeforces/BucketPotato.svg)](https://codeforces.com/profile/BucketPotato) 
 [![AtCoder](https://badges.joonhyung.xyz/atcoder/bucketpotato.svg)](https://atcoder.jp/users/bucketpotato)
